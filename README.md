@@ -57,7 +57,9 @@ This terminal chatbot allows you to:
 ```bash
 pkg update && pkg upgrade -y
 termux-setup-storage
-pkg install rust clang cmake binutils python ollama -y # you can also install ollama from there github repo also 
+termux-change-repo # choose the `mirror groups` & `all mirrors in aisa` then `ok`
+pkg install rust clang cmake binutils python ollama tur-repo -y # you can also install ollama from there github repo also
+# installed additional packages for error free installation of all modules 
 pkg install git wget -y
 git clone https://github.com/yogya-coder/Termbots.git
 cd Termbots
