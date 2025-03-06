@@ -51,4 +51,19 @@ This terminal chatbot allows you to:
    python main.py
    ```
 ---
-### enjoy ai chatbots in you terminal !
+### How to run it in Termux:
+> - Install termux from f-droid
+> - **Run the commands below:**
+```bash
+pkg update && pkg upgrade -y
+termux-setup-storage
+pkg install rust clang cmake binutils python ollama -y # you can also install ollama from there github repo also 
+pkg install git wget -y
+git clone https://github.com/yogya-coder/Termbots.git
+cd Termbots
+pip install -r libs.txt
+ollama serve
+# in a new session
+cd Termbots
+python main.py
+``` 
