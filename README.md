@@ -69,3 +69,4 @@ ollama serve
 cd Termbots
 python main.py
 ``` 
+**😁 Fun Fact:** `I've created it in TERMUX :)`
