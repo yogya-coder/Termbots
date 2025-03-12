@@ -42,7 +42,7 @@ This terminal chatbot allows you to:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yogya-coder/Termbots/
+   git clone https://github.com/yogya-coder/Termbots.git
    cd Termbots
    pip install -r libs.txt
    ollama serve
