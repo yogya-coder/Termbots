@@ -1,7 +1,7 @@
 # TERMBOTS
 
 [![GitHub](https://img.shields.io/badge/Visit-GitHub-black?style=for-the-badge&logo=github)](https://github.com/yogya-coder/Termbots)  
-[![Python](https://img.shields.io/badge/Python-3.12.9-blue?style=for-the-badge&logo=python)](https://www.python.org/)  
+[![Python](https://img.shields.io/badge/Python-3.12.9-yellow?style=for-the-badge&logo=python)](https://www.python.org/)  
 [![Pip](https://img.shields.io/badge/Pip-25.0.1-brightgreen?style=for-the-badge)](https://pip.pypa.io/)  
 [![Ollama](https://img.shields.io/badge/Ollama-Server-blueviolet?style=for-the-badge)](https://ollama.com/)  
 [![LangChain](https://img.shields.io/badge/LangChain-Community-critical?style=for-the-badge)](https://python.langchain.com/)  
